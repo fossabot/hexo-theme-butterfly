@@ -48,7 +48,11 @@ You can also join the Chat Group.
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/16351105/58887365-1272f780-8718-11e9-9329-3292c6ba20d4.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerryc127%2Fhexo-theme-butterfly.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerryc127%2Fhexo-theme-butterfly?ref=badge_shield)
 
 ![](https://user-images.githubusercontent.com/16351105/58887457-3cc4b500-8718-11e9-9417-2bdea603c92e.png)
 
 ![](https://user-images.githubusercontent.com/16351105/69338594-7d03f980-0c9e-11ea-8b64-7f165e6508e2.png)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerryc127%2Fhexo-theme-butterfly.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerryc127%2Fhexo-theme-butterfly?ref=badge_large)
